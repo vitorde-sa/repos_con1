@@ -9,5 +9,9 @@ vitor viivi
 
 Console 2021
 
+<<<<<<< HEAD
 
 merge conflito 202111
+=======
+Merge conflito 01
+>>>>>>> Console-Branch
