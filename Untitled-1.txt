@@ -1,16 +1,1 @@
-
-
-if vitor vivo {
-    vivo = true ;
-}
-
-
-vitor viivi
-
-Console 2021
-
-Merge conflito 01
-
-Merge sem conflito 01
-
-Alguma coisa sem conflito
+teste1
