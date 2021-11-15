@@ -9,4 +9,6 @@ vitor viivi
 
 Console 2021
 
+
+Forçando erro
 Merge conflito 01
