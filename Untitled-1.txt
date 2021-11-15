@@ -7,4 +7,6 @@ if vitor vivo {
 
 vitor viivi
 
-carai
+Console 2021
+
+Merge conflito 01
